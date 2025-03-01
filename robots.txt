@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beritaexpress.github.io/sitemap.xml
